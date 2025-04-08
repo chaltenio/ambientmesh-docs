@@ -8,7 +8,7 @@ export default function Home() {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <Server className="h-6 w-6" />
-            <h1 className="text-xl font-bold">Ambient Mesh Documentation</h1>
+            <h1 className="text-xl font-bold">Ambient Mesh (Lab)cumentation</h1>
           </div>
           <nav className="flex items-center gap-6">
             <a href="#" className="text-sm font-medium hover:underline">
